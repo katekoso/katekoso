@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Ekaterina Kosourikhina</h1>
 <h3 align="center">
-	A frontend developer, problem solver & just a girl who loves coding
+	A software engineer, problem solver & just a girl who loves coding
 </h3>
 
-- 🌱 I’m currently learning **React, Redux, MobX**
+- 🌱 I’m currently learning **C++, Java**
 - 📫 How to reach me **ekatkoso@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
