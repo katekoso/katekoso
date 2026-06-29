@@ -5,7 +5,7 @@
 	A software engineer, problem solver & just a girl who loves coding
 </h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 - 📫 How to reach me **ekatkoso@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
